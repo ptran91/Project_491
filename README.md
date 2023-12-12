@@ -1,8 +1,7 @@
 # Project_491
 
-This paper outlines a proposal for an Escape Stealth Game developed using Unreal Engine 5. It delves into the background of stealth games, highlighting their evolution and popularity. 
+This is an Escape Stealth Game developed using Unreal Engine 5. It delves into the background of stealth games, highlighting their evolution and popularity. 
 The motivation behind the project stems from a deep passion for gaming, particularly the stealth genre, with the aim to create a unique and engaging experience inspired by escape rooms. 
-Leveraging the powerful Unreal Engine 5, the goal is to deliver a high-quality game with stunning graphics and rich gameplay mechanics, providing players with joy and memorable experiences.
 
 Installation Instructions:
 
